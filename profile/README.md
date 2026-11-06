@@ -1,5 +1,8 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/Whale-Story/.github/main/assets/whale_story_avatar.jpg" width="160" height="160" alt="Whale Story Logo" style="border-radius: 50%;" />
+
+
 # 『 🐳 𝕎𝕙𝕒𝕝𝕖 𝕊𝕥𝕠𝕣𝕪 📖✨ 』
 ### Next-Generation Modern Enterprise Platform, Omnichannel Middleware & Banking Engine
 
